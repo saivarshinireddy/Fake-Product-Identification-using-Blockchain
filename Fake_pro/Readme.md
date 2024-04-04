@@ -1,6 +1,6 @@
-# Fake_pro Project Setup Guide
+# Fake Product Identification using Blockchain
 
-This guide will help you set up and run the Fake_pro project on your local machine.
+This project involves identifying a fake product by utilizing the QRcodes.
 
 ## Setup Instructions
 
